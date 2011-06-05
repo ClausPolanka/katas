@@ -1,3 +1,5 @@
+package stringcalculator;
+
 import java.rmi.RemoteException;
 
 public class StringCalculator {

@@ -1,5 +1,7 @@
-import org.junit.Ignore;
+package test.stringcalculator;
+
 import org.junit.Test;
+import stringcalculator.StringCalculator;
 
 import static junit.framework.Assert.fail;
 import static org.hamcrest.CoreMatchers.equalTo;

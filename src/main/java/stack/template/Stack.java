@@ -1,3 +1,5 @@
+package stack.template;
+
 public interface Stack {
     boolean isEmpty();
 

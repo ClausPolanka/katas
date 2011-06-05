@@ -1,3 +1,5 @@
+package stack.template;
+
 public class BoundedStack implements Stack {
 
     private int size;

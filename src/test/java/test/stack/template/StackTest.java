@@ -1,5 +1,9 @@
+package test.stack.template;
+
 import org.junit.Before;
 import org.junit.Test;
+import stack.template.BoundedStack;
+import stack.template.Stack;
 
 import static org.junit.Assert.*;
 
